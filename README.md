@@ -14,11 +14,11 @@
 
 ` Text `
 
-<p align="left">Left alignment object</p>
+<p align="left">Left alignment text</p>
 
-<p align="center">Center alignment object</p>
+<p align="center">Center alignment text</p>
 
-<p align="right">Right alignment object</p>
+<p align="right">Right alignment text</p>
 
 ~Strikethrough text~
 
