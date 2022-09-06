@@ -31,3 +31,7 @@
 <p align="right">
 <img width="150" height="150" src="https://github.com/PycmShoma/Text_Formatting/blob/main/img/ball.jpg">
 </p>
+
+<p align="center">
+<img width="450" height="150" src="https://github.com/PycmShoma/Text_Formatting/blob/main/img/ball.jpg">
+</p>
