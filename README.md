@@ -33,5 +33,9 @@
 </p>
 
 <p align="center">
-<img width="450" height="150" src="https://github.com/PycmShoma/Text_Formatting/blob/main/img/ball.jpg">
+<img width="450" height="100" src="https://github.com/PycmShoma/Text_Formatting/blob/main/img/ball.jpg">
+</p>
+
+<p align="center">
+<img width="100" height="450" src="https://github.com/PycmShoma/Text_Formatting/blob/main/img/ball.jpg">
 </p>
