@@ -46,6 +46,6 @@
  
  
 
-![Watchers](https://img.shields.io/github/watchers/PycmShoma/Text_Formatting?label=Visits%20to%20this%20page&style=social)
-![Release](https://img.shields.io/github/downloads/PycmShoma/Text_Formatting/latest/total?label=Downloads%20%28Latest%20Release%29&style=social)
+![Watchers](https://img.shields.io/github/watchers/PycmShoma/Text_Formatting?label=Visits%20to%20this%20page&style=FOR-THE-BADGE)
+![Release](https://img.shields.io/github/downloads/PycmShoma/Text_Formatting/latest/total?label=Downloads%20%28Latest%20Release%29&style=plastic)
 ![All Releases](https://img.shields.io/github/downloads/PycmShoma/Text_Formatting/total?label=Downloads%20%28All%20Releases%29&style=social)
