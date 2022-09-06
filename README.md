@@ -16,7 +16,7 @@
 
 <p align="center">Center alignment object</p>
 
-<p align="right">Right alignmentobject</p>
+<p align="right">Right alignment object</p>
 
 ~Strikethrough text~
 
