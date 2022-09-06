@@ -19,3 +19,5 @@
 <p align="right">Right alignmentobject</p>
 
 ~Strikethrough text~
+
+<img width="100" height="50" src="https://raw.githubusercontent.com/example_user/example_repo/main/assets/example.img">
