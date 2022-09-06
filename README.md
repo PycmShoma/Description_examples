@@ -20,4 +20,6 @@
 
 ~Strikethrough text~
 
-<img width="100" height="50" src="https://raw.githubusercontent.com/example_user/example_repo/main/assets/example.img">
+<img width="100" height="100" src="https://github.com/PycmShoma/Text_Formatting/blob/main/img/ball.jpg">
+
+
