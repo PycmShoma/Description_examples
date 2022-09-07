@@ -41,10 +41,7 @@
 <p align="center">
 <img width="100" height="450" src="https://github.com/PycmShoma/Text_Formatting/blob/main/img/ball.jpg">
 </p>
- 
- 
- 
- 
+
 
 ![Watchers](https://img.shields.io/github/watchers/PycmShoma/Text_Formatting?label=Visitors&style=FOR-THE-BADGE)
 
