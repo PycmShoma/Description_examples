@@ -48,3 +48,10 @@
 ![Release](https://img.shields.io/github/downloads/PycmShoma/Text_Formatting/latest/total?label=Downloads%20%28Latest%20Release%29&style=plastic)
 
 ![All Releases](https://img.shields.io/github/downloads/PycmShoma/Text_Formatting/total?label=Downloads%20%28All%20Releases%29&style=social)
+
+
+<a href="https://forum.xda-developers.com/f/xiaomi-mi-9-roms-kernels-recoveries-other-dev.8592/"><img src="https://img.shields.io/badge/XDA-Thread-yellow.svg?longCache=true&style=flat">
+ 
+<a href=https://t.me/><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?longCache=true&style=flat">
+
+
