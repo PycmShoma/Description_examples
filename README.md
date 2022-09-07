@@ -54,5 +54,5 @@
  
 <a href="https://t.me"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"> </a>
 
-<a href="https://4pda.to/forum/index.php?showtopic=946260"><img src="https://img.shields.io/badge/4PDA%20Forum-Modules%20Thred-009688&style=plastic"> </a>
+<a href="https://4pda.to/forum/index.php?showtopic=946260"><img src="https://img.shields.io/badge/4PDA%20Forum-Modules%20Thread-009688&style=plastic"> </a>
 
