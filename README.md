@@ -43,7 +43,7 @@
 </p>
 
 
-![Watchers](https://img.shields.io/github/watchers/PycmShoma/Text_Formatting?label=Visitors&style=FOR-THE-BADGE)
+![Watchers](https://img.shields.io/github/watchers/PycmShoma/Text_Formatting?label=Visitors&cacheSeconds=3600&color=009688&style=FOR-THE-BADGE)
 
 ![Release](https://img.shields.io/github/downloads/PycmShoma/Text_Formatting/latest/total?label=Downloads%20%28Latest%20Release%29&style=plastic)
 
