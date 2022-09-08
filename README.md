@@ -25,7 +25,7 @@
 #
 #
 ## Badges
-From [shields.io](https://github.com/badges/shields)
+from [shields.io](https://github.com/badges/shields)
 
 
 ![Watchers](https://img.shields.io/github/watchers/PycmShoma/Text_Formatting?label=Page%20visitors&cacheSeconds=3600&color=009688&labelColor=orange&logo=github&style=FOR-THE-BADGE)<br></br>Watchers don't work
@@ -40,6 +40,11 @@ From [shields.io](https://github.com/badges/shields)
 <a href="https://t.me"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"> </a>
 
 <a href="https://4pda.to/forum/index.php?showtopic=946260"><img src="https://img.shields.io/badge/4PDA%20Forum-Modules%20Thread-009688&style=plastic"> </a>
+<br></br>
+Profile views from [antonkomarev](https://github.com/antonkomarev/github-profile-views-counter)
+
+ 
+![](https://komarev.com/ghpvc/?username=PycmShoma&label=PROFILE+VIEWS&style=plastic)
 
 #
 #
