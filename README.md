@@ -28,11 +28,11 @@
 from [shields.io](https://github.com/badges/shields)
 
 
-![Watchers](https://img.shields.io/github/watchers/PycmShoma/Text_Formatting?label=Page%20visitors&cacheSeconds=3600&color=009688&labelColor=orange&logo=github&style=FOR-THE-BADGE)<br></br>Watchers don't work
+![Watchers](https://img.shields.io/github/watchers/PycmShoma/Description_examples?label=Page%20visitors&cacheSeconds=3600&color=009688&labelColor=orange&logo=github&style=FOR-THE-BADGE)<br></br>Watchers don't work
 
-![Release](https://img.shields.io/github/downloads/PycmShoma/Text_Formatting/latest/total?label=Downloads%20%28Latest%20Release%29&style=plastic)
+![Release](https://img.shields.io/github/downloads/PycmShoma/Description_examples/latest/total?label=Downloads%20%28Latest%20Release%29&style=plastic)
 
-![All Releases](https://img.shields.io/github/downloads/PycmShoma/Text_Formatting/total?label=Downloads%20%28All%20Releases%29&style=social)
+![All Releases](https://img.shields.io/github/downloads/PycmShoma/Description_examples/total?label=Downloads%20%28All%20Releases%29&style=social)
 
 
 <a href="https://forum.xda-developers.com"><img src="https://img.shields.io/badge/XDA-Thread-yellow?longCache=true&style=flat"> </a>
