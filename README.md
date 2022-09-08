@@ -28,8 +28,7 @@
 From [shields.io](https://github.com/badges/shields)
 
 
-![Watchers](https://img.shields.io/github/watchers/PycmShoma/Text_Formatting?label=Visitors&cacheSeconds=3600&color=009688&labelColor=orange&logo=github&style=FOR-THE-BADGE)
-Watchers don't work
+![Watchers](https://img.shields.io/github/watchers/PycmShoma/Text_Formatting?label=Page%20visitors&cacheSeconds=3600&color=009688&labelColor=orange&logo=github&style=FOR-THE-BADGE)<br></br>Watchers don't work
 
 ![Release](https://img.shields.io/github/downloads/PycmShoma/Text_Formatting/latest/total?label=Downloads%20%28Latest%20Release%29&style=plastic)
 
