@@ -57,3 +57,14 @@ Watchers don't work
 
 <a href="https://4pda.to/forum/index.php?showtopic=946260"><img src="https://img.shields.io/badge/4PDA%20Forum-Modules%20Thread-009688&style=plastic"> </a>
 
+## Github Stats
+
+Thanks for code of the form [Braydon Coyer](https://github.com/braydoncoyer)
+
+<a href="https://github.com/PycmShoma">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PycmShoma&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/PycmShoma">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=PycmShoma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
