@@ -1,3 +1,5 @@
+<img width="147" height="300" src="https://github.com/PycmShoma/Text_Formatting/blob/main/img/qs3.png"><img width="147" height="300" src="https://github.com/PycmShoma/Text_Formatting/blob/main/img/qs4.png">
+
 # Description
 ## Instalation
 ### Options
